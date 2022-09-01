@@ -1,1 +1,2 @@
+#!/bin/bash
 ls -d /tmp/u *[[:upper:]]*
