@@ -1,0 +1,7 @@
+0-iam_betty changes user to betty user.
+1-who_am_i prints the username of curent user.
+2-groups prints all groups the user is part of.
+3-new_owner changes user of hello file to betty user.
+4-empty creates an empty file hello.
+5-execute adds the execute permission to hello file.
+6-multiple_permission adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
